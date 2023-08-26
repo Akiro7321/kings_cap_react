@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kings_cap/static/css/main.073c9b0a.css",
+    "main.js": "/kings_cap/static/js/main.ea9a5a51.js",
+    "static/js/787.b1ebc72e.chunk.js": "/kings_cap/static/js/787.b1ebc72e.chunk.js",
+    "index.html": "/kings_cap/index.html",
+    "main.073c9b0a.css.map": "/kings_cap/static/css/main.073c9b0a.css.map",
+    "main.ea9a5a51.js.map": "/kings_cap/static/js/main.ea9a5a51.js.map",
+    "787.b1ebc72e.chunk.js.map": "/kings_cap/static/js/787.b1ebc72e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ea9a5a51.js"
+  ]
+}
